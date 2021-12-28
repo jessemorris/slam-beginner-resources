@@ -11,7 +11,7 @@ I found Cyrill Stachniss's vidoes ([his youtube channel](https://www.youtube.com
 - [Graph-based SLAM using Pose Graphs](https://www.youtube.com/watch?v=uHbRKvD8TWg&t=2912s)
 - [Probability Primer for Probilisitic Robotics](https://www.youtube.com/watch?v=JS5ndD8ans4)
 
-## Conceptual/Current Work/Tutoriial Videos:
+## Conceptual/Current Work/Tutorial Videos:
 The next set of links are more useful if one already has a small grasp on some of the basic SLAM/Robotic Perception concepts. [Airlab](https://www.youtube.com/c/AirLab) has a fantastic set of vidoes including their [Tartan SLAM Series](https://www.youtube.com/playlist?list=PLpJxwrRy4QbvkeWEkSSBhny4C2FhvQ08i) (and the follow up [Fall Edition](https://www.youtube.com/playlist?list=PLpJxwrRy4QbsO3_0rPH9n6SkR55KaNF28)).
 
 To quote the series aim: '_The goal of this series is to expand the understanding of those both new and experienced with SLAM._ '
