@@ -32,5 +32,9 @@ NOTE: I've tried to order them by what I think is the most useful as an introduc
 - [Visual Odometry Tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjVjdqr-4X1AhXPS2wGHUd1BgMQFnoECAoQAQ&url=http%3A%2F%2Frpg.ifi.uzh.ch%2Fdocs%2FVO_Part_I_Scaramuzza.pdf&usg=AOvVaw3WBC4NwekCt620kHrdolAQ) - a short PDF summarising the Visual Odometry (VO) problem and common approaches to the problem. Great for conceptual udnerstanding without too much maths.
 
 
+## Code Links
+
+- [Trajectory Evaluation Methods For Visual (-inertial) Odometry](https://github.com/uzh-rpg/rpg_trajectory_evaluation)
+
 # For the future...
 It would be awesome to have some resourcs per topic (eg. Factor Graphs, Computer-Vision, Probability for Robotics etc)
