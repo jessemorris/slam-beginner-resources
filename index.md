@@ -19,11 +19,11 @@ The next set of links are more useful if one already has a small grasp on some o
 To quote the series aim: '_The goal of this series is to expand the understanding of those both new and experienced with SLAM._ '
  They are all very educational and most of the presenters cover the basicis of SLAM in their own way in each video at the start before going into their own work. The following a series of videos in those series that were highlights for me:
 
-- [Factor Graphs and Robust Perception | Michael Kaess](https://www.youtube.com/watch?v=JmR2YpkLNt0&t=3608s) - A great introduction to Factor Graphs and current perception methods.
-- [Graph-based representations for Spatial AI | Andrew Davison](https://www.youtube.com/watch?v=svzQgfkrxZc&t=2407s) - covers fusion of ML and current proabilisitc localisation/mapping methods to gain better semantic understanding of the world. Also talks about the need for hardware progression (GPU's, IPU's etc) which is lagging behind software development. 
-- [The Furture of Robotic Perception | Lucs Carlone](https://www.youtube.com/watch?v=j5g3efgdjRg) - covers current robotic perception methods and the need for _robust_ perception methods for probalisitc inference.
-- [The Past, Present and Future of SLAM | John Leonard](https://www.youtube.com/watch?v=FH6suW6_A5U)
-- [Factor Graphs for Perception and Action | Frank Dellaert](https://www.youtube.com/watch?v=tm4E1o11kGo&t=2s) - Author of [GTSAM](https://gtsam.org/). Good semi-hands on intriducton of how to use factor-graphs in a variety of different applications. 
+- [Factor Graphs and Robust Perception (Michael Kaess)](https://www.youtube.com/watch?v=JmR2YpkLNt0&t=3608s) - A great introduction to Factor Graphs and current perception methods.
+- [Graph-based representations for Spatial AI (Andrew Davison)](https://www.youtube.com/watch?v=svzQgfkrxZc&t=2407s) - covers fusion of ML and current proabilisitc localisation/mapping methods to gain better semantic understanding of the world. Also talks about the need for hardware progression (GPU's, IPU's etc) which is lagging behind software development. 
+- [The Furture of Robotic Perception (Lucs Carlone)](https://www.youtube.com/watch?v=j5g3efgdjRg) - covers current robotic perception methods and the need for _robust_ perception methods for probalisitc inference.
+- [The Past, Present and Future of SLAM (John Leonard)](https://www.youtube.com/watch?v=FH6suW6_A5U)
+- [Factor Graphs for Perception and Action (Frank Dellaert)](https://www.youtube.com/watch?v=tm4E1o11kGo&t=2s) - Author of [GTSAM](https://gtsam.org/). Good semi-hands on intriducton of how to use factor-graphs in a variety of different applications. 
 
 ## Tutorials and Papers
 NOTE: I've tried to order them by what I think is the most useful as an introductory resource.  
