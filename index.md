@@ -18,6 +18,8 @@ To quote the series aim: '_The goal of this series is to expand the understandin
  They are all very educational and most of the presenters cover the basicis of SLAM in their own way in each video at the start before going into their own work. The following a series of videos in those series that were highlights for me:
 
 - [Factor Graphs and Robust Perception | Michael Kaess](https://www.youtube.com/watch?v=JmR2YpkLNt0&t=3608s)
+
+
 ## Tutorials and Papers
 NOTE: I've tried to order them by what I think is the most useful as an introductory resource.  
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) - A fantastic survey of the current state of SLAM (up to 2016), covering recent seminal works and short mathmatical coverage of the SLAM problem. 
