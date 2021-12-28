@@ -1,5 +1,7 @@
 ## SLAM Beginner Resources
-Disclaimer: TODO
+Disclaimer: I am not, by any means, an expert in Robotics or SLAM. I am very interested in the topic and am doing my best to become more knowledgable in the area. The following links are resources are what I used to start my robotics journey. 
+
+Please feel free to update this page with better links and more up-to-date descriptions (either by sending a PR or by messaging me) so to improve this resource for everyone. 
 ## Text Book:
 I could not find much in the real of text books for robotic vision with the exception of [Proabilisitc Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf). This covers more classicical mapping and planning methods (EKF, Particle Filters etc).
 
@@ -11,14 +13,17 @@ I found Cyrill Stachniss's vidoes ([his youtube channel](https://www.youtube.com
 - [Graph-based SLAM using Pose Graphs](https://www.youtube.com/watch?v=uHbRKvD8TWg&t=2912s)
 - [Probability Primer for Probilisitic Robotics](https://www.youtube.com/watch?v=JS5ndD8ans4)
 
-## Conceptual/Current Work/Tutoriial Videos:
+## Conceptual/Current Work/Tutorial Videos:
 The next set of links are more useful if one already has a small grasp on some of the basic SLAM/Robotic Perception concepts. [Airlab](https://www.youtube.com/c/AirLab) has a fantastic set of vidoes including their [Tartan SLAM Series](https://www.youtube.com/playlist?list=PLpJxwrRy4QbvkeWEkSSBhny4C2FhvQ08i) (and the follow up [Fall Edition](https://www.youtube.com/playlist?list=PLpJxwrRy4QbsO3_0rPH9n6SkR55KaNF28)).
 
 To quote the series aim: '_The goal of this series is to expand the understanding of those both new and experienced with SLAM._ '
  They are all very educational and most of the presenters cover the basicis of SLAM in their own way in each video at the start before going into their own work. The following a series of videos in those series that were highlights for me:
 
-- [Factor Graphs and Robust Perception | Michael Kaess](https://www.youtube.com/watch?v=JmR2YpkLNt0&t=3608s)
-
+- [Factor Graphs and Robust Perception | Michael Kaess](https://www.youtube.com/watch?v=JmR2YpkLNt0&t=3608s) - A great introduction to Factor Graphs and current perception methods.
+- [Graph-based representations for Spatial AI | Andrew Davison](https://www.youtube.com/watch?v=svzQgfkrxZc&t=2407s) - covers fusion of ML and current proabilisitc localisation/mapping methods to gain better semantic understanding of the world. Also talks about the need for hardware progression (GPU's, IPU's etc) which is lagging behind software development. 
+- [The Furture of Robotic Perception | Lucs Carlone](https://www.youtube.com/watch?v=j5g3efgdjRg) - covers current robotic perception methods and the need for _robust_ perception methods for probalisitc inference.
+- [The Past, Present and Future of SLAM | John Leonard](https://www.youtube.com/watch?v=FH6suW6_A5U)
+- [Factor Graphs for Perception and Action | Frank Dellaert](https://www.youtube.com/watch?v=tm4E1o11kGo&t=2s) - Author of [GTSAM](https://gtsam.org/). Good semi-hands on intriducton of how to use factor-graphs in a variety of different applications. 
 
 ## Tutorials and Papers
 NOTE: I've tried to order them by what I think is the most useful as an introductory resource.  
@@ -27,3 +32,5 @@ NOTE: I've tried to order them by what I think is the most useful as an introduc
 - [Visual Odometry Tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjVjdqr-4X1AhXPS2wGHUd1BgMQFnoECAoQAQ&url=http%3A%2F%2Frpg.ifi.uzh.ch%2Fdocs%2FVO_Part_I_Scaramuzza.pdf&usg=AOvVaw3WBC4NwekCt620kHrdolAQ) - a short PDF summarising the Visual Odometry (VO) problem and common approaches to the problem. Great for conceptual udnerstanding without too much maths.
 
 
+# For the future...
+It would be awesome to have some resourcs per topic (eg. Factor Graphs, Computer-Vision, Probability for Robotics etc)
