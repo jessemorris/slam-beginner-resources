@@ -30,7 +30,7 @@ NOTE: I've tried to order them by what I think is the most useful as an introduc
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) - A fantastic survey of the current state of SLAM (up to 2016), covering recent seminal works and short mathmatical coverage of the SLAM problem. 
 - [Reducing Uncertantity about the uncertanties (Part 1 or 3)](https://gtsam.org/2021/02/23/uncertainties-part1.html) - This quick tutorial (from GTSAM Blog Posts) covers some general aspects of optimization-based state estimation methods and how to quantity uncertainties. Parts 2 and 3 introduce the idea of manifolds (eg. Special Euclidean Spaces, _SE(3)_ spaces) which come up all the time in robotics. 
 - [Visual Odometry Tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjVjdqr-4X1AhXPS2wGHUd1BgMQFnoECAoQAQ&url=http%3A%2F%2Frpg.ifi.uzh.ch%2Fdocs%2FVO_Part_I_Scaramuzza.pdf&usg=AOvVaw3WBC4NwekCt620kHrdolAQ) - a short PDF summarising the Visual Odometry (VO) problem and common approaches to the problem. Great for conceptual udnerstanding without too much maths.
-- [Factor Graphs: Exploiting Structure in Robotics (2021, Annual Review](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-061520-010504?journalCode=control) - And annual review by Frank Dellaert, detailing the ways in which factor graphs are being aplied in robotics.
+- [Factor Graphs: Exploiting Structure in Robotics (2021, Annual Review)](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-061520-010504?journalCode=control) - And annual review by Frank Dellaert, detailing the ways in which factor graphs are being aplied in robotics.
 
 
 ## Code Links
