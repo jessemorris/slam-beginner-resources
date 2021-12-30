@@ -7,7 +7,7 @@ I could not find much in the real of text books for robotic vision with the exce
 
 [Multi-View Geometry in Computer Vision](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) is also very useful for those more interested in Computer-Vision (like myself). The text also has good notes on the mathematical tensor notation (which looks very scary), Matrix Properties and Decompositions as well as optimization methods in the appendix. 
 
-Another good resource is [Robotics, Vision and Control](https://link.springer.com/book/10.1007%2F978-3-319-54413-7), which covers foundational knowledge about computer vision, image processing, camera models and feature extraction.
+Another good resource is [Robotics, Vision and Control](https://www.petercorke.com/MVTB/vision.pdf), which covers foundational knowledge about computer vision, image processing, camera models and feature extraction.
 
 ## Starting/Tutorial Videos:
 I found Cyrill Stachniss's vidoes ([his youtube channel](https://www.youtube.com/channel/UCi1TC2fLRvgBQNe-T4dp8Eg)) to be incredibly useful when trying to delve into this complex topic. His videos are short and succinct and provide good coverage of a lot of basics, without going into the maths too deeply. The following are the ones I found the most useful to start with. 
