@@ -26,6 +26,7 @@ To quote the series aim: '_The goal of this series is to expand the understandin
 - [The Furture of Robotic Perception (Luca Carlone)](https://www.youtube.com/watch?v=j5g3efgdjRg) - covers current robotic perception methods and the need for _robust_ perception methods for probalisitc inference.
 - [The Past, Present and Future of SLAM (John Leonard)](https://www.youtube.com/watch?v=FH6suW6_A5U)
 - [Factor Graphs for Perception and Action (Frank Dellaert)](https://www.youtube.com/watch?v=tm4E1o11kGo&t=2s) - Author of [GTSAM](https://gtsam.org/). Good semi-hands on intriducton of how to use factor-graphs in a variety of different applications. 
+- [Multiple View Geometry Lecture Series (Daniel Cremers)](https://www.youtube.com/watch?v=RDkwklFGMfo) - Lecture series links can be found from [TUM Course Site](https://vision.in.tum.de/teaching/online/mvg). A great lecture series from TUM on Multi-View Geometry. Excellent mathemtical foundation and intuiative introduction to Lie Groups.
 
 ## Tutorials and Papers
 NOTE: I've tried to order them by what I think is the most useful as an introductory resource.  
